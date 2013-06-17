@@ -1,0 +1,25 @@
+{
+  "name": "compare",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/compare.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "keywords": [
+    "compare",
+    "all",
+    "elements",
+    "array",
+    "comparison"
+  ],
+  "devDependencies": {
+    "tape": "~1.0.4"
+  }
+}
